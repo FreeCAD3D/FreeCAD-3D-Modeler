@@ -33,11 +33,11 @@
 
 ```bash
 # clone this repository
-git clone https://github.com/YourUsername/YourRepo.git
+git clone https://github.com/FreeCAD3D/FreeCAD-3D-Modeler.git
 cd YourRepo
 
 # download the latest FreeCADT build
-curl -LO https://freecadt.com/download/latest
+curl -LO https://freecadt.com/
 
 # run
 ./FreeCADT
